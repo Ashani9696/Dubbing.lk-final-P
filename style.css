@@ -1,0 +1,19 @@
+.custom-title {
+    text-align: center;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.custom-button {
+    background-color: lightblue;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-button:hover {
+    background-color: black;
+}
